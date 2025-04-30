@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: Subalas LLC
+description: Everyday tech solutions (by a busy dad who actually uses them)
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
